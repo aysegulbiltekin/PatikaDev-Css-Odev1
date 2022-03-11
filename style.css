@@ -1,0 +1,58 @@
+body{
+    background-image: url(background2.jpg);
+    font-family: SFProDisplay,arial,sans-serif;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: SFProDisplay,arial,sans-serif;
+    color: rgb(255, 7, 102);
+
+
+
+}
+
+table{
+    margin-left: 350px;
+
+}
+tr td{
+    margin: 30px;
+
+}
+
+
+td{
+    width: 270px;
+    background-color: white;
+    border: gray;
+    border-radius: 20px;
+}
+
+
+img{
+
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+    
+}
+button{
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(255, 7, 102);
+    border: none;
+    border-radius: 10px;
+}
+
+.footer{
+    padding: 10px;
+    font-family: SFProDisplay,arial,sans-serif;
+    font-size: 15px;
+    height: 50px;
+    text-align: right;
+
+}

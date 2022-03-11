@@ -1,0 +1,22 @@
+body{
+    background-image: url(background.jpg);
+    font-family: SFProDisplay,arial,sans-serif;
+    text-align: center;
+    width: 60%;
+    padding-left: 20%;
+}
+h1{
+    color: rgb(255, 7, 102);
+}
+p{
+    font-size: large;
+
+}
+.kutu{
+    margin: 20px;
+    padding-top: 20px;
+    padding: 60px;
+    width: 850px;
+    background-color:white;
+    border-radius: 20px;
+}
